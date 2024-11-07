@@ -1,20 +1,14 @@
-# Jahidul Islam
+# Software Developer & Aspiring Data Scientist
 
-<p align="center">
-  <strong>Chittagong, Bangladesh</strong><br>
-  ✉️ <a href="mailto:jahid.prog@gmail.com">jahid.prog@gmail.com</a> | 📞 +880-163-277-39-67<br>
-  🌐 <a href="https://github.com/jahidulislam114593">GitHub</a> | <a href="https://linkedin.com/in/thisisjahid">LinkedIn</a>
-</p>
+#### Technical Skills: JavaScript, Python, C/C++, PHP, SQL, AWS, MongoDB, React, Node.js
 
 ---
 
 ## Education
-
-**Premier University Chittagong**  
-**Bachelor of Science in Computer Science**  
-_Fall 2020 – Spring 2024_  
-- **GPA:** 3.17/4.0  
-- **Relevant Coursework:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Software Development, Database Management Systems (DBMS), Machine Learning (ML), Artificial Intelligence (AI), AWS  
+- **B.S. in Computer Science** | Premier University, Chittagong  
+  _(Expected Graduation: Spring 2024)_  
+  - **GPA:** 3.17/4.0  
+  - **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Software Development, Database Management Systems, Machine Learning, Artificial Intelligence, AWS.
 
 ---
 
@@ -26,60 +20,58 @@ Chittagong, Bangladesh
 
 ---
 
+
 ## Projects
 
 ### [Youtube Backend](https://github.com/jahidulislam114593/youtube-backend.git)
-A comprehensive backend platform for a video-sharing service, designed to enable secure and efficient video uploads and management. Key features include:
+A comprehensive backend platform for a video-sharing service with advanced security and efficient data management. Key features include:
 
-- **User Authentication**: Implemented secure authentication using JWT (JSON Web Token) and password hashing with Bcrypt to ensure data security.
-- **File Management**: Integrated Cloudinary for reliable, high-quality video and image storage, making uploads efficient and accessible.
-- **Database Structuring**: Designed a MongoDB schema with Mongoose for efficient and scalable data storage, focusing on user profiles, videos, and interaction data.
-- **API Design**: Built a RESTful API to support frontend integration, allowing users to create accounts, upload and manage videos, and view analytics on uploads.
+- **User Authentication**: Utilized JWT and Bcrypt for secure login and data protection.
+- **File Management**: Leveraged Cloudinary for optimized video storage and management.
+- **Database Structuring**: Designed MongoDB schemas for efficient data handling using Mongoose.
+- **API Design**: Created a RESTful API for easy frontend integration, supporting user accounts, video uploads, and analytics.
 
-**Technologies Used:** JWT, Bcrypt, Cloudinary, Mongoose, Node.js, Express.
+**Technologies Used:** Node.js, Express, MongoDB, JWT, Bcrypt, Cloudinary.
 
 ---
 
 ### [BidBoard](https://github.com/jahidulislam114593/BidBoard.git)
-A job marketplace platform that connects freelancers and employers with real-time updates and personalized job management features. Key aspects of the platform include:
+A job marketplace platform connecting freelancers and employers, designed for real-time interactions. Highlights include:
 
-- **User Authentication**: Developed secure login and registration for users, utilizing tokens for session management.
-- **Job Posting and Management**: Enabled registered users to create, edit, and delete job posts. Employers can manage job applications and connect with suitable candidates in real-time.
-- **Real-Time Updates**: Integrated real-time notifications and updates using WebSockets, allowing employers and freelancers to communicate efficiently.
-- **Frontend and Backend Development**: Designed a dynamic frontend with ReactJS, providing an intuitive user experience, while managing data and operations with a Node.js and Express backend.
-  
-**Technologies Used:** JavaScript, ReactJS, Node.js, Express, MongoDB, WebSocket.
+- **User Authentication**: Implemented a secure login/registration system with session tokens.
+- **Job Management**: Enabled job posting, editing, and real-time notifications using WebSockets.
+- **Frontend & Backend**: Built with React for user interface, powered by a Node.js backend for data and operations management.
+
+**Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, WebSocket.
 
 ---
 
 ## Leadership & Activities
 
-### Responsible Gen  
-**Co-Founder**  
-_2023 – Present_  
-Led the "Eid er Chuya 2023" initiative, managing a team of 6 and engaging over 100 attendees.
+- **Co-Founder @ Responsible Gen**  
+  _2023 – Present_  
+  - Led the "Eid er Chuya 2023" project, managing logistics for a team of 6 and engaging 100+ attendees.
 
-### Youth Voice  
-**General Member**  
-_Nov 2021 – Mar 2023_  
-Organized logistics and documented events like "Chauna Piyaju 2023" with 1,000+ attendees and "Fight Against Winter 2022" (winter clothing drive).
+- **General Member @ Youth Voice**  
+  _Nov 2021 – Mar 2023_  
+  - Organized large-scale events, such as "Chauna Piyaju 2023" with 1,000+ attendees and a winter clothing drive.
 
 ---
+
 
 ## Work Experience
 
-**Programming Hero**  
-**Digital Maverick**  
+**Digital Maverick @ Programming Hero**  
 _Mar 2023 – Present_  
-Developed educational content for a beginner-friendly JavaScript book, enhancing learner engagement and simplifying programming concepts.
+- Developed engaging, beginner-friendly educational content to simplify programming concepts, contributing to a JavaScript book aimed at new learners.
 
----
+
 
 ## Skills
 
-- **Languages:** C/C++, Python, JavaScript, PHP  
-- **Libraries & Tools:** ReactJS, NodeJS, Express, MongoDB, Git/GitHub, VS Code, Google Colab, Postman  
-- **Problem Solving:** 50+ problems on LeetCode, 200+ problems on Codeforces  
+- **Programming Languages:** C/C++, Python, JavaScript, PHP  
+- **Libraries & Tools:** React, Node.js, Express, MongoDB, Git/GitHub, VS Code, Postman, Google Colab  
+- **Problem Solving:** Solved 50+ problems on LeetCode and 200+ on Codeforces
 
 ---
 
@@ -90,6 +82,14 @@ Developed educational content for a beginner-friendly JavaScript book, enhancing
 
 ---
 
+## Connect with Me
+
+- [GitHub](https://github.com/jahidulislam114593)
+- [LinkedIn](https://linkedin.com/in/thisisjahid)
+- [Email](mailto:jahid.prog@gmail.com)
+
+---
+
 <p align="center">
-  <em>Connect with me on <a href="https://linkedin.com/in/thisisjahid">LinkedIn</a> or explore my <a href="https://github.com/jahidulislam114593">GitHub</a> for more projects!</em>
-</p>  
+  <em>Explore my projects and connect with me for collaboration opportunities!</em>
+</p>
