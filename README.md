@@ -92,4 +92,4 @@ Developed educational content for a beginner-friendly JavaScript book, enhancing
 
 <p align="center">
   <em>Connect with me on <a href="https://linkedin.com/in/thisisjahid">LinkedIn</a> or explore my <a href="https://github.com/jahidulislam114593">GitHub</a> for more projects!</em>
-</p>
+</p>  
