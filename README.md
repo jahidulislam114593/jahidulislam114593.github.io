@@ -16,7 +16,7 @@
 
 **Undergraduate Research**  
 Chittagong, Bangladesh  
-- Conducted a research project on [project details here if applicable].  
+- Conducted a research project on [Working on it].  
 
 ---
 
