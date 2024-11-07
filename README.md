@@ -1,4 +1,4 @@
-# Software Developer & Aspiring Data Scientist
+# Aspiring Software Developer
 
 #### Technical Skills: JavaScript, Python, C/C++, PHP, SQL, AWS, MongoDB, React, Node.js
 
