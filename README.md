@@ -1,14 +1,14 @@
 # Aspiring Software Developer
 
-#### Technical Skills: JavaScript, Python, C/C++, PHP, SQL, AWS, MongoDB, React, Node.js
+#### Technical Skills: C/C++, Python, JavaScript, PHP, SQL, MongoDB, React, Node.js, AWS
 
 ---
 
 ## Education
 - **B.S. in Computer Science** | Premier University, Chittagong  
-  _(Expected Graduation: Spring 2024)_  
+  _(Graduation: Spring 2024)_  
   - **GPA:** 3.17/4.0  
-  - **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Software Development, Database Management Systems, Machine Learning, Artificial Intelligence, AWS.
+  - **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Operation System, Software Development, Database Management Systems, Machine Learning, Artificial Intelligence, AWS.
 
 ---
 
