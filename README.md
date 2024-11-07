@@ -42,7 +42,7 @@ A job marketplace platform connecting freelancers and employers, designed for re
 - **Job Management**: Enabled job posting, editing, and real-time notifications using WebSockets.
 - **Frontend & Backend**: Built with React for user interface, powered by a Node.js backend for data and operations management.
 
-**Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, WebSocket.
+**Technologies Used:** JavaScript, React, Node.js, Express, MongoDB.
 
 ---
 
