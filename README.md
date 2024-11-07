@@ -1,9 +1,10 @@
 # Jahidul Islam
 
-📍 Chittagong, Bangladesh  
-✉️ [jahid.prog@gmail.com](mailto:jahid.prog@gmail.com)  
-📞 +880-163-277-39-67  
-🌐 [GitHub](https://github.com/jahidulislam114593) | [LinkedIn](https://linkedin.com/in/thisisjahid)
+<p align="center">
+  <strong>Chittagong, Bangladesh</strong><br>
+  ✉️ <a href="mailto:jahid.prog@gmail.com">jahid.prog@gmail.com</a> | 📞 +880-163-277-39-67<br>
+  🌐 <a href="https://github.com/jahidulislam114593">GitHub</a> | <a href="https://linkedin.com/in/thisisjahid">LinkedIn</a>
+</p>
 
 ---
 
@@ -11,7 +12,7 @@
 
 **Premier University Chittagong**  
 **Bachelor of Science in Computer Science**  
-Fall 2020 – Spring 2024  
+_Fall 2020 – Spring 2024_  
 - **GPA:** 3.17/4.0  
 - **Relevant Coursework:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Software Development, Database Management Systems (DBMS), Machine Learning (ML), Artificial Intelligence (AI), AWS  
 
@@ -28,12 +29,12 @@ Chittagong, Bangladesh
 ## Projects
 
 ### [Youtube Backend](https://github.com/jahidulislam114593/youtube-backend.git)
-- Built a video-sharing backend platform with secure authentication, file management, and database structuring.
-- **Technologies Used:** JWT, Bcrypt, Cloudinary, Mongoose.
+Built a video-sharing backend platform with secure authentication, file management, and database structuring.  
+**Technologies Used:** JWT, Bcrypt, Cloudinary, Mongoose.
 
 ### [BidBoard](https://github.com/jahidulislam114593/BidBoard.git)
-- Developed a job marketplace platform with user authentication, job creation, and real-time updates.
-- **Technologies Used:** JavaScript, ReactJS, Express, MongoDB, NodeJS.
+Developed a job marketplace platform with user authentication, job creation, and real-time updates.  
+**Technologies Used:** JavaScript, ReactJS, Express, MongoDB, NodeJS.
 
 ---
 
@@ -41,13 +42,13 @@ Chittagong, Bangladesh
 
 ### Responsible Gen  
 **Co-Founder**  
-2023 – Present  
-- Led the "Eid er Chuya 2023" initiative, managing a team of 6 and engaging over 100 attendees.
+_2023 – Present_  
+Led the "Eid er Chuya 2023" initiative, managing a team of 6 and engaging over 100 attendees.
 
 ### Youth Voice  
 **General Member**  
-Nov 2021 – Mar 2023  
-- Organized logistics and documented events like "Chauna Piyaju 2023" with 1,000+ attendees and "Fight Against Winter 2022" (winter clothing drive).
+_Nov 2021 – Mar 2023_  
+Organized logistics and documented events like "Chauna Piyaju 2023" with 1,000+ attendees and "Fight Against Winter 2022" (winter clothing drive).
 
 ---
 
@@ -55,8 +56,8 @@ Nov 2021 – Mar 2023
 
 **Programming Hero**  
 **Digital Maverick**  
-Mar 2023 – Present  
-- Developed educational content for a beginner-friendly JavaScript book, enhancing learner engagement and simplifying programming concepts.
+_Mar 2023 – Present_  
+Developed educational content for a beginner-friendly JavaScript book, enhancing learner engagement and simplifying programming concepts.
 
 ---
 
@@ -72,3 +73,9 @@ Mar 2023 – Present
 
 - **Bangla:** Native  
 - **English:** Fluent  
+
+---
+
+<p align="center">
+  <em>Connect with me on <a href="https://linkedin.com/in/thisisjahid">LinkedIn</a> or explore my <a href="https://github.com/jahidulislam114593">GitHub</a> for more projects!</em>
+</p>
