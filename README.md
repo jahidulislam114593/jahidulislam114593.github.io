@@ -29,12 +29,26 @@ Chittagong, Bangladesh
 ## Projects
 
 ### [Youtube Backend](https://github.com/jahidulislam114593/youtube-backend.git)
-Built a video-sharing backend platform with secure authentication, file management, and database structuring.  
-**Technologies Used:** JWT, Bcrypt, Cloudinary, Mongoose.
+A comprehensive backend platform for a video-sharing service, designed to enable secure and efficient video uploads and management. Key features include:
+
+- **User Authentication**: Implemented secure authentication using JWT (JSON Web Token) and password hashing with Bcrypt to ensure data security.
+- **File Management**: Integrated Cloudinary for reliable, high-quality video and image storage, making uploads efficient and accessible.
+- **Database Structuring**: Designed a MongoDB schema with Mongoose for efficient and scalable data storage, focusing on user profiles, videos, and interaction data.
+- **API Design**: Built a RESTful API to support frontend integration, allowing users to create accounts, upload and manage videos, and view analytics on uploads.
+
+**Technologies Used:** JWT, Bcrypt, Cloudinary, Mongoose, Node.js, Express.
+
+---
 
 ### [BidBoard](https://github.com/jahidulislam114593/BidBoard.git)
-Developed a job marketplace platform with user authentication, job creation, and real-time updates.  
-**Technologies Used:** JavaScript, ReactJS, Express, MongoDB, NodeJS.
+A job marketplace platform that connects freelancers and employers with real-time updates and personalized job management features. Key aspects of the platform include:
+
+- **User Authentication**: Developed secure login and registration for users, utilizing tokens for session management.
+- **Job Posting and Management**: Enabled registered users to create, edit, and delete job posts. Employers can manage job applications and connect with suitable candidates in real-time.
+- **Real-Time Updates**: Integrated real-time notifications and updates using WebSockets, allowing employers and freelancers to communicate efficiently.
+- **Frontend and Backend Development**: Designed a dynamic frontend with ReactJS, providing an intuitive user experience, while managing data and operations with a Node.js and Express backend.
+  
+**Technologies Used:** JavaScript, ReactJS, Node.js, Express, MongoDB, WebSocket.
 
 ---
 
