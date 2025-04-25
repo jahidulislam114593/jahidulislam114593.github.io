@@ -1,13 +1,13 @@
 # Aspiring Software Developer
 
-#### Technical Skills: C/C++, Python, JavaScript, PHP, SQL, MongoDB, React, Node.js, AWS
+#### Technical Skills: Golang, C/C++, Python, JavaScript
 
 ---
 
 ## Education
 - **B.S. in Computer Science** | Premier University, Chittagong  
   _(Graduation: Spring 2024)_  
-  - **GPA:** 3.17/4.0  
+  - **GPA:** 3.20/4.0  
   - **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Operation System, Software Development, Database Management Systems, Machine Learning, Artificial Intelligence, AWS.
 
 ---
@@ -23,26 +23,17 @@ Chittagong, Bangladesh
 
 ## Projects
 
-### [Youtube Backend](https://github.com/jahidulislam114593/youtube-backend.git)
-A comprehensive backend platform for a video-sharing service with advanced security and efficient data management. Key features include:
+### [go-bookstore-api](https://github.com/jahidprog/go-bookstore-api.git)
+Developed a Book Management System using Go and MySQL, implementing full CRUD operations with GORM and Gorilla Mux. Focused on clean API design, modular project structure, and real-world database interaction using ORM.
 
-- **User Authentication**: Utilized JWT and Bcrypt for secure login and data protection.
-- **File Management**: Leveraged Cloudinary for optimized video storage and management.
-- **Database Structuring**: Designed MongoDB schemas for efficient data handling using Mongoose.
-- **API Design**: Created a RESTful API for easy frontend integration, supporting user accounts, video uploads, and analytics.
-
-**Technologies Used:** Node.js, Express, MongoDB, JWT, Bcrypt, Cloudinary.
+**Technologies Used:** GO, MySQL, GORM ORM, Gorilla Mux 
 
 ---
 
-### [BidBoard](https://github.com/jahidulislam114593/BidBoard.git)
-A job marketplace platform connecting freelancers and employers, designed for real-time interactions. Highlights include:
+### [go-checkMail](https://github.com/jahidprog/go-checkMail.git)
+Developed a Go-based CLI tool that validates domain DNS configurations by checking for MX, SPF, and DMARC records. Designed for quick diagnostics of email readiness and security policies.
 
-- **User Authentication**: Implemented a secure login/registration system with session tokens.
-- **Job Management**: Enabled job posting, editing, and real-time notifications using WebSockets.
-- **Frontend & Backend**: Built with React for user interface, powered by a Node.js backend for data and operations management.
-
-**Technologies Used:** JavaScript, React, Node.js, Express, MongoDB.
+**Technologies Used:** GO
 
 ---
 
@@ -69,9 +60,9 @@ _Mar 2023 – Present_
 
 ## Skills
 
-- **Programming Languages:** C/C++, Python, JavaScript, PHP  
-- **Libraries & Tools:** React, Node.js, Express, MongoDB, Git/GitHub, VS Code, Postman, Google Colab  
-- **Problem Solving:** Solved 50+ problems on LeetCode and 200+ on Codeforces
+- **Programming Languages:** GoLang, C/C++, Python, JavaScript  
+- **Tools:** Git/GitHub, VS Code, Postman, Google Colab  
+- **Problem Solving:** Solved 100+ problems on LeetCode and 300+ on Codeforces
 
 ---
 
